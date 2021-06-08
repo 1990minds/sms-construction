@@ -1,0 +1,42 @@
+[
+    {
+
+        "id":"op1",
+        "title":"Construction of residential building",
+        "src":"./images/pgalleryImages/Shivanssh Holdings LLP/oimgs (1).jpg",
+        "location":"Koramangala 3rd Block, Bangalore, India.",
+        "Area":"6500",
+      
+        "client":"Shivanssh Holdings LLP",
+        
+        "content":"<br/>Construction of G+2 residential building with all electric and plumbing services",
+        "gallery": ["./images//pgalleryImages/Shivanssh Holdings LLP/oimgs (2).jpg",
+            "./images/pgalleryImages/Shivanssh Holdings LLP/oimgs (2).jpg"
+           
+        ]
+        
+        },
+        {
+
+            "id":"op2",
+            "title":"Construction of G+2 residential building, G+1 and Mezzanine Floor.",
+            "src":"./images/pgalleryImages/Wesmarc Doors/oimg (2).jpg",
+            "location":"Bommasandra Industrial Area Bangalore, India.",
+            "Area":"300000",
+            "client":"Wesmarc Doors Technik Pvt. Ltd.",
+            
+            "content":"<p> Construction of G+2 residential building, G+1 and Mezzanine Floors</p> <h6>Ancillary Construction works include</h6> <ul><li>Plumbing work</li><li>Sump Tank</li><li>Sewage Treatment Plant</li><li>Transformer and High-Tention Yard.</li><li>Diesel Generator Yard</li><li>Concrete Road & Parking.</li><li>Storm Water Drain.</li></ul> ",
+            "gallery": ["./images/pgalleryImages/Wesmarc Doors/oimg (7).jpg",
+                "./images/pgalleryImages/Wesmarc Doors/oimg (1).jpg",
+                "./images/pgalleryImages/Wesmarc Doors/oimg (2).jpg",
+                "./images/pgalleryImages/Wesmarc Doors/oimg (3).jpg",
+                "./images/pgalleryImages/Wesmarc Doors/oimg (4).jpg",
+                "./images/pgalleryImages/Wesmarc Doors/oimg (5).jpg",
+                "./images/pgalleryImages/Wesmarc Doors/oimg (6).jpg",
+                "./images/pgalleryImages/Wesmarc Doors/oimg (2).jpg"
+
+
+            ]
+            
+            }
+]
